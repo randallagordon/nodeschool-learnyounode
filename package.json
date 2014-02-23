@@ -1,0 +1,8 @@
+{
+  "description": "My solutions for Nodeschool.io's learnyounode",
+  "repository": "https://github.com/randallagordon/nodeschool-learnyounode",
+  "dependencies": {
+    "strftime": "~0.8.0",
+    "through2-map": "~1.2.1"
+  }
+}
